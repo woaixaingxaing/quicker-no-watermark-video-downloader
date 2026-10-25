@@ -1,0 +1,4 @@
+$schema: quicker.action.info.v1
+title: 无水印视频下载
+description: 复制抖音、小红书等平台的分享链接后运行动作：抖音直接无水印下载；其他平台自动打开浏览器，按提示完成安全验证即可。视频保存到 下载\无水印视频。
+icon: "fa:Light_Download:#4f9cf9"

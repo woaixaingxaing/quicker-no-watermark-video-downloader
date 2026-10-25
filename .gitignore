@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+# 测试与运行产物
+test_*
+*.log
+*.part
+*.tmp
+logs/
+douyin-profile/
+site-profile/
+site-profile-*/
+douyin_cookies.txt
+
+# 本地下载结果
+Downloads/
+无水印视频/
