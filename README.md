@@ -2,6 +2,8 @@
 
 复制一条分享链接，然后运行 Quicker 动作，视频会自动下载。抖音链接会直接取得无水印作品地址；小红书等其他平台会自动打开解析页面，出现 Cloudflare 安全验证时由你手动点一下，验证完成后继续下载。
 
+> 其他 Quicker 动作（米家插座锁屏联动、网盘下载、传输空闲清后台等）集中收录在 [quicker-actions](https://github.com/woaixaingxaing/quicker-actions)。
+
 支持：抖音、小红书、快手、Bilibili、微博、TikTok、Instagram、X/Twitter、Reddit、YouTube。视频默认保存到：
 
 ```text
